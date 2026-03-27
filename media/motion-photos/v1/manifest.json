@@ -46,6 +46,16 @@
       "expected": {
         "is_motion_photo": false
       }
+    },
+    {
+      "path": "files/dual_mp4_video_last.jpg",
+      "sha256": "bf5341dd05085c7b389ea3a85c9319d826c03db048e9ed28865eb78ad02bf969",
+      "size": 7638778,
+      "expected": {
+        "is_motion_photo": true,
+        "video_index_start": 3590234,
+        "video_index_end": 7638778
+      }
     }
   ]
 }
